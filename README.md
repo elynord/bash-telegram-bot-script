@@ -13,7 +13,7 @@ Effortlessly send messages and documents directly to your Telegram chats from th
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/elynord/bash-telegram-bot-script](https://github.com/elynord/bash-telegram-bot-script)
+   git clone https://github.com/elynord/bash-telegram-bot-script
    ```
 
 2. **Configuration:**
