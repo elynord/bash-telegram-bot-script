@@ -61,7 +61,6 @@ Effortlessly send messages and documents directly to your Telegram chats from th
 We welcome contributions from the community! If you have any ideas, bug fixes, or enhancements, feel free to open an issue or submit a pull request.
 
 Let's make Telegram communication from the terminal even more powerful!
-```
 
 **Enhancements:**
 
