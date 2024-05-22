@@ -1,5 +1,3 @@
-Absolutely! Let's enhance the README.md to provide a richer experience for potential users:
-
 ```markdown
 # Telegram Script Enhanced 🚀
 
