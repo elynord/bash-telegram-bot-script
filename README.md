@@ -1,4 +1,3 @@
-```markdown
 # Telegram Script Enhanced 🚀
 
 Effortlessly send messages and documents directly to your Telegram chats from the comfort of your terminal. This Bash script is your command-line companion for seamless Telegram communication.
